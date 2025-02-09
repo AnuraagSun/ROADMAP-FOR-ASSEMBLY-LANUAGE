@@ -1,7 +1,7 @@
-# ROADMAP-FOR-ASSEMBLY-LANUAGE
-Note: Assembly language is architecture-specific. This roadmap primarily focuses on x86/x64 assembly, but the concepts can be applied to other architectures ASWELL
+ROADMAP-FOR-ASSEMBLY-LANGUAGE
 
-Assembly Language Programming Roadmap
+Note: Assembly language is architecture-specific. This roadmap primarily focuses on x86/x64 assembly, but the concepts can be applied to other architectures as well.
+
 Table of Contents
 
 Prerequisites
@@ -170,3 +170,8 @@ Debugging tools (GDB, WinDbg)
 "Assembly Language Programming from Ground Up" (Udemy)
 "x86 Assembly Language Programming From Ground Up" (Udemy)
 "Introduction to Computer Organization" (Coursera)
+
+
+<div align="center">
+Created with ❤️ for Assembly Language enthusiasts
+</div>
