@@ -159,5 +159,5 @@
 ---
 
 <div align="center">
-Created with ❤️ for Assembly Language enthusiasts
+Created with ❤️
 </div>
